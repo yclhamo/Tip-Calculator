@@ -1,0 +1,17 @@
+html, .body {
+    background: pink;
+}
+
+form {
+    background-color: lightblue;
+}
+.form-group {
+    background-color: pink;
+}
+.container {
+    background: pink;
+    border-radius: 20%;
+  }
+.bg-dark {
+    background-color: pink;
+}
